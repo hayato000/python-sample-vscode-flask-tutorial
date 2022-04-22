@@ -9,6 +9,9 @@
   1. Run the command `set FLASK_APP=webapp` (Windows cmd) or `FLASK_APP=webapp` (macOS/Linux) to point to the app module.
   1. Start the Flask server with `flask run`.
 
+
+Mighty warrior
+
 ## The startup.py file
 
 In the root folder, the `startup.py` file is specifically for deploying to Azure App Service on Linux without using a containerized version of the app (that is, deploying the code directly, not as a container).
